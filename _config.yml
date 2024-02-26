@@ -4,7 +4,7 @@ SEOTitle: JayCai's Blog | JayCai Blog
 header-img: img/home-bg.jpg
 email: jaycai96@gmail.com
 description: "关于程序与设计、咖啡与摄影 | 这里是 @jaycai96 的个人博客。"
-keyword: "jaycai96, @jaycai96,JayCai's Blog, 博客, 个人网站, 互联网, Web, Spark, Python, 数据分析, 机器学习"
+keyword: "jaycaix, @jaycaix,JayCai's Blog, 博客, 个人网站, 互联网, Web, Spark, Python, 数据分析, 机器学习"
 url: "https://jaycai96.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -15,9 +15,9 @@ future: true
 RSS: false
 weibo_username:     uc15007422
 #zhihu_username:     jaycai96
-github_username:    jaycai96
-twitter_username:   jaycai96
-#facebook_username:  jaycai96
+github_username:    jaycaix
+twitter_username:   jaycaix
+#facebook_username:  jaycaix
 #linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: jaycai96
+disqus_username: jaycaix
 
 # Netease settings
 netease_comment: false
